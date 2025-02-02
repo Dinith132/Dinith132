@@ -1,39 +1,37 @@
-███████╗██╗  ██╗ ██████╗ ████████╗██╗  ██╗
-██╔════╝██║  ██║██╔═══██╗╚══██╔══╝██║  ██║
-███████╗███████║██║   ██║   ██║   ███████║
-╚════██║██╔══██║██║   ██║   ██║   ██╔══██║
-███████║██║  ██║╚██████╔╝   ██║   ██║  ██║
-╚══════╝╚═╝  ╚═╝ ╚═════╝    ╚═╝   ╚═╝  ╚═╝
-🔍 AUTHORIZATION REQUIRED
-Welcome, traveler. You have stumbled upon my digital lair.
-Your curiosity is noted. Proceed with caution.
+███████╗██╗   ██╗██╗  ██╗ ██████╗ ███████╗
+██╔════╝██║   ██║██║  ██║██╔═══██╗██╔════╝
+█████╗  ██║   ██║███████║██║   ██║███████╗
+██╔══╝  ██║   ██║██╔══██║██║   ██║╚════██║
+██║     ╚██████╔╝██║  ██║╚██████╔╝███████║
+╚═╝      ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚══════╝
+WARNING: You have entered a restricted zone.
+All keystrokes are monitored. Proceed wisely.
 
-📜 SYSTEM LOGS DETECTED
-🟢 An unknown entity is scanning this profile... Is that you?
-🟢 Encryption level: 🤖 1337
-🟢 Secret projects: Access Denied 🚫
-💻 USER PROFILE
-plaintext
-Copy code
-> IDENTITY: UNKNOWN 🤖
-> STATUS: ACTIVE
-> SKILLS: ██████████▒▒▒ (87%)
-> COFFEE CONSUMPTION: ██████████████████ (OVERLOADED)
-> HUMOR LEVEL: 1337%
-> ERROR LOG: Too many ideas, not enough time...
-🔑 DECRYPTING PROJECTS...
-🛠 Building cool stuff 🛸
-🎮 Probably playing games instead of coding 🎮
-🐛 Debugging (or creating more bugs accidentally)
-👽 Waiting for aliens to send me better code
-💬 INTERACTION OPTIONS
-> [ 1 ] Ask me something
-> [ 2 ] Try to hack me
-> [ 3 ] Stare at this README forever
-> [ 4 ] Click follow and pretend we are best friends 🤝
-🛑 SYSTEM ALERT: EXITING...
-plaintext
-Copy code
-> CONNECTION LOST...
-> SIGNAL JAMMED...
-> LAST MESSAGE: "Follow me if you dare." 👀
+🔍 STATUS REPORT
+> System: Online ✅
+> GitHub Activity: Classified 🔒
+> Code Stability: Questionable 🤔
+> Debugging Mode: Always On 🐞
+> Sense of Humor: 100% Activated 😆
+
+📁 FILE DIRECTORY
+[ROOT]  
+├── projects/ 🚀  
+│   ├── [REDACTED] 🔥  
+│   ├── totally_not_malware.exe 👀  
+│   └── cool_ideas_but_never_finished.txt 📜  
+├── coffee_fueled_code/ ☕  
+├── secret_lair/ 🏴‍☠️  
+└── README.md (you are here) 👋 
+
+🔑 COMMANDS
+> FOLLOW  -- Stay updated on my madness  
+> CLONE   -- Take what you need (but beware...)  
+> MESSAGE -- If you dare 👀  
+> EXIT    -- But do you really want to leave? 🤔
+
+
+🛑 SYSTEM LOG
+> ERROR: You haven't starred this repo yet. Suspicious...  
+> NOTICE: Following may cause spontaneous inspiration.  
+> LAST LOGGED MESSAGE: "See you on the other side."  
