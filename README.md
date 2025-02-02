@@ -28,7 +28,7 @@
 
 <h2 style="color: #00ff00;">🛠 COMMAND EXECUTION</h2>
 <pre style="color: #00ff00;">
-> git clone https://github.com/YOUR_USERNAME  [Cloning...]  
+> git clone https://github.com/Dinith132  [Cloning...]  
 > ./start.sh  [Executing...]  
 > sudo access --granted  ✅  
 </pre>
