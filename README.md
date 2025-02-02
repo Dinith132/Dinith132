@@ -1,40 +1,28 @@
-```
+<h1 align="center">
+  <span style="color: #00ff00;">ACCESS GRANTED</span>
+</h1>
+
+<pre style="color: #00ff00;">
 ███████╗██╗   ██╗██╗  ██╗ ██████╗ ███████╗
 ██╔════╝██║   ██║██║  ██║██╔═══██╗██╔════╝
 █████╗  ██║   ██║███████║██║   ██║███████╗
 ██╔══╝  ██║   ██║██╔══██║██║   ██║╚════██║
 ██║     ╚██████╔╝██║  ██║╚██████╔╝███████║
 ╚═╝      ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚══════╝
-```
+</pre>
 
-WARNING: You have entered a restricted zone.
-All keystrokes are monitored. Proceed wisely.
+> **STATUS:** ✅ Online | 🔒 Encrypted | ⚡ Monitoring  
 
-🔍 STATUS REPORT
-> System: Online ✅
-> GitHub Activity: Classified 🔒
-> Code Stability: Questionable 🤔
-> Debugging Mode: Always On 🐞
-> Sense of Humor: 100% Activated 😆
+---
 
-📁 FILE DIRECTORY
-[ROOT]  
+### **📂 SYSTEM DIRECTORY**  
+```plaintext
+/root  
 ├── projects/ 🚀  
 │   ├── [REDACTED] 🔥  
-│   ├── totally_not_malware.exe 👀  
-│   └── cool_ideas_but_never_finished.txt 📜  
+│   ├── exploit_v1.42.sh 👀  
+│   ├── AI_research_notes.pdf 📜  
+│   └── unknown_executable.bin 🔥  
+├── encrypted_logs/ 🔑  
 ├── coffee_fueled_code/ ☕  
-├── secret_lair/ 🏴‍☠️  
-└── README.md (you are here) 👋 
-
-🔑 COMMANDS
-> FOLLOW  -- Stay updated on my madness  
-> CLONE   -- Take what you need (but beware...)  
-> MESSAGE -- If you dare 👀  
-> EXIT    -- But do you really want to leave? 🤔
-
-
-🛑 SYSTEM LOG
-> ERROR: You haven't starred this repo yet. Suspicious...  
-> NOTICE: Following may cause spontaneous inspiration.  
-> LAST LOGGED MESSAGE: "See you on the other side."  
+└── README.md (you are here) 👋  
