@@ -34,14 +34,6 @@
 > sudo access --granted  ✅  
 </pre>
 
-<h2 style="color: #00ff00;">⚠️ SYSTEM LOGS</h2>
-<pre style="color: #00ff00;">
-[ERROR] Unauthorized access detected.  
-[WARNING] Too much curiosity might lead to unexpected consequences...  
-[NOTICE] You haven't followed this profile yet. Suspicious...  
-[INFO] Last logged message: "The game has just begun."  
-</pre>
-
 <h2 style="color: #00ff00;">💬 CONTACT</h2>
 <p style="color: #00ff00;">
 📧 <strong>Encrypted Communication Only</strong>  
